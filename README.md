@@ -12,16 +12,22 @@
 - 🏢 I'm a Junior Front End web developer.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 I have expertise in using JavaScript, ReactJS, and various aspects of web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with  a cup of coffee.
+ <hr/>
 
-### Connect with Me :
+### 💬 Connect with Me :<br/><br/>
 
-<a href="[https://www.linkedin.com/in/abdala-ehab-b229a6268/]" target="_blank"><img src="https://img.shields.io/badge/-Abdala %20Ehab-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="abdalaehab3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Abdala %20Ehab-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
-<a href="https://www.facebook.com/abdala.ehab.96" target="_blank"><img src="https://img.shields.io/badge/-Abdala %20Ehab-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<img width="300" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-### 🛠 &nbsp;Languages and Tools :
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&)](https://www.facebook.com/abdala.ehab.96)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:abdalaehab3@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01018823693)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdala-ehab-b229a6268)
+ <hr/>
+
+<img width="300" height="270" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+### 🛠 &nbsp;Languages and Tools : <br/>
+
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -34,7 +40,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=JQuery)&nbsp;
- ### 👨‍💻 I’m currently learning :
+  <br/>
+  <br/>
+ ### 👨‍💻 I’m currently learning : <br/>
+ 
   ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
   ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
