@@ -87,8 +87,6 @@
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 
 <br/>
-<br/>
-<br/>
 
 <hr/>
 
@@ -143,10 +141,6 @@
 - 💼 Open to **freelance projects** and **full-time opportunities**
 
 <hr/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=f75c7e&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
