@@ -65,6 +65,7 @@
 
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=ffffff)&nbsp;
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=ffffff)&nbsp;
+![Context API](https://img.shields.io/badge/-Context%20API-05122A?style=flat&logo=react)&nbsp;
 
 **Styling & UI:**
 
@@ -77,8 +78,6 @@
 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 
 **Tools & Workflow:**
 
@@ -116,8 +115,6 @@
 - ✅ Performance optimization
 - ✅ RESTful API integration
 - ✅ API testing (Postman, Swagger)
-- ✅ Unit testing with Jest
-- ✅ GraphQL queries
 - ✅ Git workflow & version control
 - ✅ Agile methodology
 
