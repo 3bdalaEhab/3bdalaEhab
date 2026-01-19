@@ -1,45 +1,167 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <h1>Hi there, I'm Abdala Ehab 👋</h1>
-  <h3>Frontend Engineer | React Specialist | 2+ Years Experience</h3>
-</div>
+<h1 align="center">
+  Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Abdala Ehab's Github profile! ♥
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Engineer+with+2%2B+years+experience;React+%7C+Next.js+%7C+TypeScript+Developer;Building+Scalable+%26+Performant+Web+Apps;Passionate+about+Clean+Code+%26+User+Experience&font=Fira+Code&center=true&width=650&height=50&color=3b82f6&vCenter=true&pause=1000&size=19">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Engineer+with+2%2B+Years+Experience;React+%7C+Next.js+%7C+TypeScript+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Things&font=Fira+Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdala-ehab-b229a6268)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalaehab3@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2001018823693)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](#)
-  
-</div>
-
 ---
 
-## 👨‍💻 About Me
+<span align="left">
+  <h3>🚀 About Me</h3> 
+  <h4>
+    I'm Abdala Ehab from Egypt, a Frontend Engineer with 2+ years of professional experience in building modern, responsive web applications. I specialize in React ecosystem and enjoy transforming designs into pixel-perfect, performant user interfaces. I'm passionate about clean code, best practices, and continuously expanding my technical skills.
+  </h4>
+</span>
 
-```typescript
-const abdalaEhab = {
-  title: "Frontend Engineer",
-  location: "Port Said, Egypt 🇪🇬",
-  experience: "2+ Years",
-  code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-  technologies: {
-    frontEnd: {
-      frameworks: ["React.js", "Next.js"],
-      stateManagement: ["Redux", "Redux Toolkit", "Context API", "React Query"],
-      styling: ["Tailwind CSS", "Sass/SCSS", "CSS Modules", "Styled Components"],
-      uiLibraries: ["Material-UI", "Bootstrap", "Ant Design"]
-    },
-    tools: ["Git", "GitHub", "VS Code", "npm", "Vite", "Webpack"],
-    design: ["Responsive Design", "Mobile-First", "Figma to Code", "Pixel Perfect"],
-    practices: ["Clean Code", "Component Reusability", "Performance Optimization"]
-  },
-  currentlyLearning: ["Advanced TypeScript", "Next.js 14+", "Testing (Jest & RTL)"],
-  funFact: "I turn caffeine into clean code ☕ → 💻"
-};
+<hr/>
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="310" height="210" />
+
+### 💼 Professional Highlights
+
+- 🏢 **2+ years** of Frontend Development experience
+<br/>
+
+- 🚀 Built and shipped **production-ready** web applications
+<br/>
+
+- 👨‍💻 Expert in **React.js**, **JavaScript (ES6+)**, and modern web technologies
+<br/>
+
+- 🎨 Proficient in converting **Figma/XD designs** into responsive interfaces
+<br/>
+
+- ⚡ Focused on **performance optimization** and **clean architecture**
+<br/>
+
+- 🤝 Experienced in **API integration** and team collaboration
+<br/>
+
+<hr/>
+
+<img width="300" height="270" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+### 🛠 Languages and Tools
+
+**Core Technologies:**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+**Frameworks & Libraries:**
+
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=ffffff)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
+
+**Styling & UI:**
+
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwindcss)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI)&nbsp;
+
+**Tools & Workflow:**
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+
+<br/>
+
+### 👨‍💻 Currently Learning & Exploring
+
+![Next.js Advanced](https://img.shields.io/badge/-Next.js%2014%2B-05122A?style=flat&logo=Next.js)
+![TypeScript Advanced](https://img.shields.io/badge/-Advanced%20TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
+![Testing](https://img.shields.io/badge/-Jest%20%26%20RTL-05122A?style=flat&logo=jest)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+
+<br/>
+<br/>
+
+<hr/>
+
+### 💡 Technical Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Frontend Development:**
+- ✅ React.js & React Hooks
+- ✅ Component-driven architecture
+- ✅ State management (Redux, Context API)
+- ✅ Responsive & mobile-first design
+- ✅ Cross-browser compatibility
+
+</td>
+<td width="50%" valign="top">
+
+**Best Practices:**
+- ✅ Clean & maintainable code
+- ✅ Performance optimization
+- ✅ RESTful API integration
+- ✅ Git workflow & version control
+- ✅ Agile methodology
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+### 💬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdala-ehab-b229a6268)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalaehab3@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdala.ehab.96)
+<a href="https://wa.me/+2001018823693">
+  <img src="https://img.shields.io/badge/-WhatsApp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+<hr/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</div>
+
+<hr/>
+
+### 🎯 Fun Facts
+
+- ⚡ **2+ years** of turning ideas into reality through code
+- ☕ Coffee enthusiast - my perfect day starts and ends with a cup of coffee
+- 📚 Constantly learning and exploring new technologies
+- 🎨 Passionate about creating beautiful, user-friendly interfaces
+- 💼 Open to **freelance projects** and **full-time opportunities**
+
+<hr/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=f75c7e&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+<div align="center">
+  <h3>⭐ Don't forget to check out my repositories and give them a star if you find them useful! ⭐</h3>
+</div>
