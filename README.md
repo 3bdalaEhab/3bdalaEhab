@@ -73,23 +73,21 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI)&nbsp;
 
+**API & Testing Tools:**
+
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+
 **Tools & Workflow:**
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
 <br/>
-
-### 👨‍💻 Currently Learning & Exploring
-
-![Next.js Advanced](https://img.shields.io/badge/-Next.js%2014%2B-05122A?style=flat&logo=Next.js)
-![TypeScript Advanced](https://img.shields.io/badge/-Advanced%20TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
-![Jest & RTL](https://img.shields.io/badge/-Jest%20%26%20RTL-05122A?style=flat&logo=jest)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
-
 <br/>
 <br/>
 
@@ -103,6 +101,8 @@
 
 **Frontend Development:**
 - ✅ React.js & React Hooks
+- ✅ Next.js & Server-Side Rendering
+- ✅ TypeScript & JavaScript (ES6+)
 - ✅ Component-driven architecture
 - ✅ State management (Redux, React Query, Context API)
 - ✅ Responsive & mobile-first design
@@ -111,10 +111,13 @@
 </td>
 <td width="50%" valign="top">
 
-**Best Practices:**
+**Best Practices & Tools:**
 - ✅ Clean & maintainable code
 - ✅ Performance optimization
 - ✅ RESTful API integration
+- ✅ API testing (Postman, Swagger)
+- ✅ Unit testing with Jest
+- ✅ GraphQL queries
 - ✅ Git workflow & version control
 - ✅ Agile methodology
 
@@ -132,19 +135,6 @@
 <a href="https://wa.me/+2001018823693">
   <img src="https://img.shields.io/badge/-WhatsApp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-
-<hr/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
 
 <hr/>
 
