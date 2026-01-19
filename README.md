@@ -59,8 +59,12 @@
 
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=ffffff)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
+
+**State Management:**
+
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=ffffff)&nbsp;
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=ffffff)&nbsp;
 
 **Styling & UI:**
 
@@ -83,7 +87,7 @@
 
 ![Next.js Advanced](https://img.shields.io/badge/-Next.js%2014%2B-05122A?style=flat&logo=Next.js)
 ![TypeScript Advanced](https://img.shields.io/badge/-Advanced%20TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
-![Testing](https://img.shields.io/badge/-Jest%20%26%20RTL-05122A?style=flat&logo=jest)&nbsp;
+![Jest & RTL](https://img.shields.io/badge/-Jest%20%26%20RTL-05122A?style=flat&logo=jest)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 
 <br/>
@@ -100,7 +104,7 @@
 **Frontend Development:**
 - ✅ React.js & React Hooks
 - ✅ Component-driven architecture
-- ✅ State management (Redux, Context API)
+- ✅ State management (Redux, React Query, Context API)
 - ✅ Responsive & mobile-first design
 - ✅ Cross-browser compatibility
 
@@ -122,7 +126,7 @@
 
 ### 💬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdala-ehab-b229a6268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-ehab-8986391ab/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalaehab3@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdala.ehab.96)
 <a href="https://wa.me/+2001018823693">
